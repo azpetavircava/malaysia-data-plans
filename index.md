@@ -72,3 +72,10 @@ layout: default
 　　选择哪张卡，就像选旅行背包，关键看你的“行程重量”：
 
 *   **追求极致便利、说走就走？** **eSIM是首选。** 尤其是多
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Malaysia SIM 卡购买与激活指南](https://faciylike.github.io/malaysia-sim-guides)
